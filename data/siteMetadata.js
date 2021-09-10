@@ -1,8 +1,9 @@
 const siteMetadata = {
-  title: 'Next.js Starter Blog',
-  author: 'Tails Azimuth',
-  headerTitle: 'TailwindBlog',
-  description: 'A blog created with Next.js and Tailwind.css',
+  title: "Raqeeb's tiny space on the internet",
+  author: 'Raqeeb',
+  headerTitle: 'Raqeeb.in',
+  description:
+    'Raqeeb is a Metallurgical and Materials Engineer with keen interest in the Finance world and International politics.',
   language: 'en-us',
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
   siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
